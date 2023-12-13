@@ -8,6 +8,7 @@ The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
+![Capture](https://github.com/ymishra845/TEXTEDITOR/assets/139787838/2e033eb5-fd8e-4fbd-8e48-aaa7ac304b24)
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
